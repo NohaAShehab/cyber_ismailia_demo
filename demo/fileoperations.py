@@ -59,3 +59,7 @@ def delete_book_from_file(book_index):
     ## save list again to the file
     res=save_all_books(books)
     return res
+
+
+def test():
+    print("hello test ")
